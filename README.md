@@ -1,2 +1,1 @@
-# Bambulabs
-better start scripts for bambulabs x1 carbon combo
+3D Printing Stuff
